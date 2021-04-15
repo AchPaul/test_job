@@ -1,3 +1,5 @@
+#Парсинг названий всех животных в Википедии
+
 from bs4 import BeautifulSoup
 import requests
 
